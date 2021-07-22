@@ -1,0 +1,5 @@
+"learn and understand Angularjs"
+problem:
+difficult to learn, uses concepts and vocabulary that might be difficult to undrestand
+
+
